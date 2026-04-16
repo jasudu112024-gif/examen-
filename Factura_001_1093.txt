@@ -1,0 +1,10 @@
+
+FECHA: 2026-04-16
+MESA: mesa 1
+CLIENTE: julian perez | ID: 1093
+TEL: 30108597456 | EMAIL: juliperz@gmail.com
+------------------------------------------------------------
+COD | NOMBRE | CANT | V.UNIT | IVA | SUBTOTAL
+001 | papas | 5 | 2000.0 | 380.0 | 11900.0
+------------------------------------------------------------
+TOTAL A PAGAR: 11900.0
